@@ -1,0 +1,11 @@
+#dives{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.tarolo{
+    border: 1px solid;
+    flex-direction:row;
+    padding: 10px;
+    flex: 0 0 10%;
+}
